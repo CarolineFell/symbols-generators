@@ -1,4 +1,3 @@
 import './css/style.css';
 
-import './js/symbols-iterators.Person';
-import './js/symbols-iterators.Team';
+import './js/symbols-generators.Team';
